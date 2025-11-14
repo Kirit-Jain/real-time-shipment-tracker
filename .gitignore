@@ -1,0 +1,11 @@
+# Build artifacts
+target/
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+*.log
